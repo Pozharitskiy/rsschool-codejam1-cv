@@ -4,12 +4,17 @@
 }
 .photo p {
 	float: right;
-	padding-right: 950px;
-	padding-top: 200px;
+	padding-right: 850px;
+	padding-top:90px;
 }
 .nameofcv p {
 	text-align:center;
 }
-p  {
-	
+.summary p {
+	padding-top: 10px;
+	padding-right: 300px;
+	width: 100%;
+}
+.summary {
+
 }
