@@ -1,0 +1,94 @@
+.photo img{
+	width: 20%;
+}
+body, html {
+    height: 100%;
+}
+
+.constructor { 
+    /* The image used */
+    background-image: url("https://pp.userapi.com/c850232/v850232675/419a0/ecghvTpGIJ0.jpg");
+    background-color: black;
+    /* Full height */
+    height: 950px; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.photo p {
+	float: right;
+	padding-right: 450px;
+	color:white;
+	font-size: 20px;
+	line-height: 50px;
+	font-size: 35px;
+	font-weight: bold;
+	
+}
+
+.summary p {
+	font-size: 25px;
+    color:white;
+
+}
+
+div.summary {
+	width: 600px;
+	padding-left: 250px;
+	float: left;
+	text-align: center;
+	color:white;
+	
+}
+div.skills {
+	width: 600px; 
+
+	padding-left: 250px;
+	float: left;
+	word-wrap: break-word;
+	color:white;
+	text-align: center;
+	font-size: 25px;
+}
+div.xp {
+	width: 600px; 
+	padding-left: 250px;
+	float: left;
+	word-wrap: break-word;
+	text-align: center;
+	color:white;
+	height: 100px;
+}
+div.education {
+	width: 600px; 
+	padding-left: 250px;
+	float: left;
+	color:white;
+	word-wrap: break-word;
+	text-align: center;
+	height: 100px;
+	font-size: 25px;
+}
+div.english {
+	width: 600px; /* Ширина слоя */ /* Значение отступов */
+	float: left;
+	word-wrap: break-word;
+	text-align: center;
+	padding-left: 250px;
+	color:white;
+	height: 100px;
+	font-size: 25px;
+}
+div.menu {
+	float:left;
+	width: 150px;
+	font-size: 25px;
+	padding-top: 30px;
+}
+.menu p {
+	color:#FF8C00;
+	font-size: 30px;
+	font-weight: bold;
+}
