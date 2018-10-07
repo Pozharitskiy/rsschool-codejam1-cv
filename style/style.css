@@ -1,20 +1,75 @@
 .photo img{
 	width: 20%;
-
 }
+
 .photo p {
 	float: right;
-	padding-right: 850px;
+	padding-right: 450px;
 	padding-top:90px;
+	font-size: 20px;
+	line-height: 50px;
+	
 }
 .nameofcv p {
 	text-align:center;
 }
 .summary p {
-	padding-top: 10px;
-	padding-right: 300px;
-	width: 100%;
-}
-.summary {
+	font-size: 25px;
 
+
+}
+
+div.summary {
+	width: 600px; /* Ширина слоя */ /* Значение отступов */
+	border: 4px solid black; /* Параметры границы */
+	padding-left: 250px;
+	float: left;
+	text-align: left;
+	
+}
+div.skills {
+	width: 600px; /* Ширина слоя */ /* Значение отступов */
+	border: 4px solid black; /* Параметры границы */
+	padding-left: 250px;
+	float: left;
+	word-wrap: break-word;
+	text-align: left;
+}
+div.xp {
+	width: 600px; /* Ширина слоя */ /* Значение отступов */
+	border: 4px solid black; /* Параметры границы */
+	padding-left: 250px;
+	float: left;
+	word-wrap: break-word;
+	text-align: left;
+	height: 100px;
+}
+div.education {
+	width: 600px; /* Ширина слоя */ /* Значение отступов */
+	border: 4px solid black; /* Параметры границы */
+	padding-left: 250px;
+	float: left;
+	word-wrap: break-word;
+	text-align: left;
+	height: 100px;
+}
+div.english {
+	width: 600px; /* Ширина слоя */ /* Значение отступов */
+	border: 4px solid black; /* Параметры границы */
+	padding-left: 250px;
+	float: left;
+	word-wrap: break-word;
+	text-align: left;
+	height: 100px;
+}
+div.menu {
+	float:left;
+	width: 300px; /* Ширина слоя */ /* Значение отступов */
+	border: 4px solid black; /* Параметры границы */
+	padding: 10px;
+	word-wrap: break-word;
+}
+.menu p {
+	color:#FF8C00;
+	font-size: 30px;
 }
